@@ -1,1 +1,1 @@
-# comicfo
+# comic-beta
